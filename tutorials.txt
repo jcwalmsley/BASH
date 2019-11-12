@@ -1,0 +1,500 @@
+   54  ls
+   55  nano file.txt
+   56  which bash
+   57  du
+   58  free -h
+   59  sudo free -h
+   60  man free
+   61  cd /
+   62  sudo du -h
+   63  sudo du -hs
+   64  cd /
+   65  sudo du -hs
+   66  df
+   67  top -hs
+   68  top -s
+   69  top
+   70  cd Desktop/BASH_project/
+   71  ls
+   72  cd BASH_content_examples/
+   73  ls
+   74  cat list1.txt 
+   75  wc file1.save 
+   76  man &
+   77  man && q
+   78  man && man && qq
+   79  man \&
+   80  help &
+   81  date & cal
+   82  LS || pwd
+   83  DATE || pwd
+   84  yum
+   85  dnf
+   86  sudo yum
+   87  sudo apt-get
+   88  sudo dnf
+   89  r -version
+   90  python -version
+   91  ls
+   92  pwd
+   93  ls
+   94  cd Desktop/
+   95  ls
+   96  cd BASH_project/
+   97  ls
+   98  cd BASH_c
+   99  cd BASH_content_examples/
+  100  ls
+  101  open BASH_out_1 
+  102  open speech.txt 
+  103  /Users/jamescwalmsley/Desktop/BASH_project/BASH_content_examples/expcmd ; exit;
+  104  /Users/jamescwalmsley/Desktop/BASH_project/BASH_content_examples/expcmd ; exit;
+  105  /Users/jamescwalmsley/Desktop/BASH_project/BASH_content_examples/exp ; exit;
+  106  cd Desktop/BASH_project/BASH_content_examples/
+  107  ls
+  108  touch hello2.sh
+  109  chmod +x hello2.sh 
+  110  open hello2.sh 
+  111  pwd
+  112  ls
+  113  cd ../
+  114  ls
+  115  mv BASH_content_examples/ cmd_modules
+  116  pwd
+  117  cd cmd_modules/
+  118  cd ../
+  119  mv cmd_modules/ cmds
+  120  cd cmds/
+  121  ls
+  122  open hello2.sh 
+  123  ls
+  124  ls -al
+  125  ./ hello2.sh 
+  126  ./hello2.sh 
+  127  ./hello2.sh 
+  128  ./hello2.sh 
+  129  ./hello2.sh 
+  130  ./hello2.sh 
+  131  ./hello2.sh 
+  132  ./hello2.sh 
+  133  ./hello2.sh 
+  134  ./hello2.sh 
+  135  ./hello2.sh 
+  136  ./hello2.sh 
+  137  mv ./hello2.sh ./hello.sh
+  138  ./hello2
+  139  ./hello.sh
+  140  open ./hello.sh 
+  141  ./hello.sh
+  142  ./hello.sh
+  143  ./hello.sh James Carnes Walmsley
+  144  open ./hello.sh 
+  145  open ./hello.sh 
+  146  ./hello.sh James Carnes Walmsley
+  147  open ./hello.sh 
+  148  open ./hello.sh 
+  149  open ./hello.sh 
+  150  ./hello.sh James Carnes Walmsley
+  151  open ./hello.sh 
+  152  ./hello.sh Jack George Tom
+  153  open ./hello.sh 
+  154  ./hello.sh Jack George Tom
+  155  open ./hello.sh 
+  156  ./hello.sh Jack George Tom
+  157  open ./hello.sh 
+  158  ./hello.sh Jack George Tom
+  159  ./hello.sh Jack George Tom
+  160  open ./hello.sh 
+  161  open ./hello.sh 
+  162  ./hello.sh Jack George Tom
+  163  open ./hello.sh 
+  164  open ./hello.sh 
+  165  ./hello.sh Jack George Tom
+  166  open ./hello.sh 
+  167  ./hello.sh Jack George Tom
+  168  open ./hello.sh 
+  169  touch conditionals.txt
+  170  open conditionals.txt 
+  171  open conditionals.txt 
+  172  open ./hello.sh 
+  173  open ./hello.sh 
+  174  ./hello.sh
+  175  ./hello.sh
+  176  open ./hello.sh 
+  177  ./hello.sh
+  178  open ./hello.sh 
+  179  ./hello.sh
+  180  ./hello.sh
+  181  ./hello.sh
+  182  open ./hello.sh 
+  183  ./hello.sh
+  184  open ./hello.sh 
+  185  ./hello.sh
+  186  open ./hello.sh 
+  187  ./hello.sh
+  188  open ./hello.sh 
+  189  open ./hello.sh 
+  190  ./hello.sh
+  191  open ./hello.sh 
+  192  ./hello.sh
+  193  ./hello.sh
+  194  ./hello.sh
+  195  open ./hello.sh 
+  196  open ./hello.sh 
+  197  ./hello.sh
+  198  ./hello.sh
+  199  ./hello.sh
+  200  open ./hello.sh 
+  201  ./hello.sh
+  202  open ./hello.sh 
+  203  ./hello.sh
+  204  ./hello.sh
+  205  ./hello.sh
+  206  open ./hello.sh 
+  207  ./hello.sh
+  208  open ./hello.sh 
+  209  ./hello.sh
+  210  open ./hello.sh 
+  211  ./hello.sh
+  212  ./hello.sh
+  213  open ./hello.sh 
+  214  open ./hello.sh 
+  215  open ./hello.sh 
+  216  ./hello.sh
+  217  file_name
+  218  ./hello.sh
+  219  touch test
+  220  ./hello.sh
+  221  open ./hello.sh 
+  222  ./hello.sh
+  223  open ./hello.sh 
+  224  ./hello.sh
+  225  ./hello.sh
+  226  mkdir dir
+  227  ./hello.sh
+  228  ls
+  229  open ./hello.sh 
+  230  open ./hello.sh 
+  231  open ./hello.sh 
+  232  open ./hello.sh 
+  233  ./hello.sh
+  234  ./hello.sh
+  235  ls -l
+  236  cat > test 
+  237  ls -l
+  238  ./hello.sh
+  239  open ./hello.sh 
+  240  open ./hello.sh 
+  241  open ./hello.sh 
+  242  ls
+  243  cd DE
+  244  Ls
+  245  cd Desktop/
+  246  ls
+  247  cd BASH_project/
+  248  ls
+  249  cd ~
+  250  ls
+  251  cd Desktop/
+  252  ls
+  253  mv cmds CMDS
+  254  ls
+  255  cd CMDS/
+  256  ls
+  257  ls
+  258  cat hello.sh 
+  259  cd Desktop/
+  260  cd CMDS/
+  261  ls
+  262  cat hello.sh 
+  263  pwd
+  264  open hello.sh 
+  265  open hello.sh 
+  266  ./hello.sh 
+  267  ./hello.sh 
+  268  ./hello.sh 
+  269  ./hello.sh 
+  270  ./hello.sh 
+  271  ./hello.sh 
+  272  ./hello.sh 
+  273  ./hello.sh 
+  274  ./hello.sh 
+  275  ./hello.sh 
+  276  ./hello.sh 
+  277  ./hello.sh 
+  278  ./hello.sh 
+  279  ./hello.sh 
+  280  ./hello.sh 
+  281  ./hello.sh 
+  282  ./hello.sh 
+  283  screencapture
+  284  cd Desktop/
+  285  cd ~
+  286  cd Desktop/CMDS/
+  287  ls
+  288  open hello.sh 
+  289  ./hello.sh 
+  290  ./hello.sh 
+  291  ./hello.sh 
+  292  ./hello.sh 
+  293  ./hello.sh 
+  294  ./hello.sh 
+  295  ./hello.sh 
+  296  ./hello.sh 
+  297  LS
+  298  ./hello.sh 
+  299  ./h
+  300  ./hello.sh 
+  301  ./hello.sh 
+  302  ./hello.sh 
+  303  ./hello.sh 
+  304  ./hello.sh 
+  305  ./hello.sh 
+  306  ./hello.sh 
+  307  ./hello.sh 
+  308  ./hello.sh 
+  309  ./hello.sh 
+  310  ./hello.sh 
+  311  ./hello.sh 
+  312  ./hello.sh 
+  313  ./hello.sh 
+  314  ./hello.sh 
+  315  ./hello.sh 
+  316  ./hello.sh 
+  317  ./hello.sh 
+  318  ./hello.sh 
+  319  ./hello.sh 
+  320  ./hello.sh 
+  321  ./hello.sh 
+  322  ./hello.sh 
+  323  ./hello.sh 
+  324  ./hello.sh 
+  325  ./hello.sh 
+  326  ./hello.sh 
+  327  ./hello.sh 
+  328  ./hello.sh 
+  329  ./hello.sh 
+  330  ./hello.sh 
+  331  ./hello.sh 
+  332  ./hello.sh 
+  333  ./hello.sh 
+  334  ./hello.sh 
+  335  ./hello.sh 
+  336  ./hello.sh 
+  337  echo ${BASH_VERSION}
+  338  echo ${BASH_VERSION}
+  339  echo ${BASH_VERSION}
+  340  echo ${BASH_VERSION}
+  341  echo ${BASH_VERSION}
+  342  echo ${BASH_VERSION}
+  343  echo ${BASH_VERSION}
+  344  echo ${BASH_VERSION}
+  345  ./hello.sh 
+  346  ./hello.sh 
+  347  ./hello.sh 
+  348  ./hello.sh 
+  349  ./hello.sh 
+  350  ./hello.sh 
+  351  ./hello.sh 
+  352  cd ~
+  353  pwd
+  354  pwd
+  355  pwd
+  356  ./hello.sh 
+  357  ./hello.sh
+  358  ./hello.sh
+  359  cd Desktop/CMDS/
+  360  ./hello.sh 
+  361  ./hello.sh 
+  362  ./hello.sh 
+  363  ./hello.sh 
+  364  ./hello.sh 
+  365  ./hello.sh 
+  366  ./hello.sh 
+  367  ./hello.sh 
+  368  cd ../
+  369  pwd
+  370  pwd
+  371  ./hello.sh
+  372  cd CMDS/
+  373  mv hello.sh /Desktop
+  374  chmod +rwx hello.sh
+  375  mv hello.sh /Desktop/
+  376  ls-a
+  377  ls -a
+  378  cp hello.sh /Users/jcwalmsley/Desktop/
+  379  cp hello.sh /Users/jcwalmsley/Desktop
+  380  cd ~
+  381  pwd
+  382  ls
+  383  cd Desktop/
+  384  pwd
+  385  cd CMDS/
+  386  cp hello.sh /Users/jamescwalmsley/Desktop
+  387  cd ../
+  388  ls
+  389  ./hello.sh 
+  390  cd CMDS/
+  391  cd ../
+  392  ls
+  393  ls
+  394  ls
+  395  ls
+  396  ./hello.sh 
+  397  ls
+  398  ./hello.sh 
+  399  ./hello.sh 
+  400  ./hello.sh 
+  401  ./hello.sh 
+  402  ./hello.sh 
+  403  cd CMDS/
+  404  ls
+  405  ./hello.sh 
+  406  ./hello.sh 
+  407  ./hello.sh 
+  408  ./hello.sh 
+  409  ./hello.sh 
+  410  ./hello.sh 
+  411  ./hello.sh 
+  412  ./hello.sh 
+  413  ./hello.sh 
+  414  cd ../
+  415  ./hello.sh 
+  416  ./hello.sh 
+  417  touch newfile
+  418  ./hello.sh 
+  419  ./hello.sh 
+  420  ls
+  421  ./hello.sh 
+  422  ./hello.sh 
+  423  ./hello.sh 
+  424  ./hello.sh 
+  425  cat file_1 file_2 file_3
+  426  touch file_1 file_2 file_3
+  427  ls
+  428  ./hello.sh 
+  429  ./hello.sh 
+  430  ./hello.sh 
+  431  ./hello.sh 
+  432  ./hello.sh 
+  433  ./hello.sh 
+  434  ./hello.sh 
+  435  ./hello.sh 
+  436  ./hello.sh 
+  437  ./hello.sh 
+  438  ./hello.sh 
+  439  ./hello.sh 
+  440  ./hello.sh 
+  441  cd C
+  442  cd CMDS/
+  443  ls
+  444  open conditionals.txt 
+  445  cd ../
+  446  ./hello.sh 
+  447  ./hello.sh 
+  448  ./hello.sh 
+  449  ./hello.sh 
+  450  cd CMDS/
+  451  ./hello.sh 
+  452  ./hello.sh 
+  453  ./hello.sh 
+  454  ./hello.sh 
+  455  ./hello.sh 
+  456  ./hello.sh 
+  457  ./hello.sh 
+  458  ./hello.sh 
+  459  ./hello.sh 
+  460  ./hello.sh 
+  461  ./hello.sh 
+  462  ./hello.sh 
+  463  ./hello.sh 
+  464  ./hello.sh 
+  465  ./hello.sh 
+  466  ./hello.sh 
+  467  ./hello.sh 
+  468  ./hello.sh 
+  469  ./hello.sh 
+  470  ./hello.sh 
+  471  ./hello.sh 
+  472  cd Desktop/CMDS/
+  473  ls
+  474  open hello.sh 
+  475  ./hello.sh 
+  476  ./hello.sh 
+  477  ./hello.sh 
+  478  cd Desktop/CMDS/
+  479  open hello.sh 
+  480  open hello.sh 
+  481  open hello.sh 
+  482  ./hello.sh 
+  483  ./hello.sh 
+  484  ./hello.sh 
+  485  ./hello.sh 
+  486  ls
+  487  touch file1.txt
+  488  ls
+  489  ./hello.sh 
+  490  ./hello.sh file1.txt
+  491  ./hello.sh file1.txt
+  492  ./hello.sh file1.txt
+  493  ./hello.sh file1.txt
+  494  ./hello.sh file1.txt
+  495  ./hello.sh
+  496  ./hello.sh
+  497  ./hello.sh
+  498  ./hello.sh
+  499  ./hello.sh
+  500  ./hello.sh
+  501  cd Desktop/CMDS/
+  502  open hello.sh 
+  503  ./hello.sh
+  504  ./hello.sh
+  505  ./hello.sh
+  506  ./hello.sh
+  507  ./hello.sh
+  508  ./hello.sh
+  509  ./hello.sh
+  510  ./hello.sh
+  511  ./hello.sh
+  512  ./hello.sh
+  513  ./hello.sh
+  514  kill -9 951
+  515  ./hello.sh
+  516  ls
+  517  ls
+  518  mv file1.txt file.txt
+  519  ls
+  520  pwd
+  521  ./hello.sh
+  522  ls
+  523  ls
+  524  ./hello.sh
+  525  touch file.txt
+  526  ls
+  527  ls
+  528  ./hello.sh
+  529  ls
+  530  ./hello.sh
+  531  ./hello.sh
+  532  ./hello.sh
+  533  ./hello.sh
+  534  ./hello.sh
+  535  touch file.txt
+  536  ./hello.sh
+  537  bash -x ./hello.sh 
+  538  bash -x ./hello.sh 
+  539  bash -x ./hello.sh 
+  540  ./hello.sh 
+  541  ./hello.sh 
+  542  ./hello.sh 
+  543  history
+  544  man history
+  545  ?history
+  546  ?? history
+  547  ? history
+  548  ?history
+  549  history
+  550  history > bash tutorials.txt
+  551  ls
+  552  open bash 
+  553  history > tutorials.txt
